@@ -7,5 +7,71 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/spring-core-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-beans-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-instrument-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-webflux-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-context-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-core-test-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-websocket-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-web-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-r2dbc-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-context-indexer-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-oxm-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-webmvc-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-expression-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-jms-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-messaging-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-aspects-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-context-support-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-jcl-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-aop-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-test-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-jdbc-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-tx-6.0.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-orm-6.0.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/libs/spring-web-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-web-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-websocket-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-context-indexer-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-webmvc-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-webmvc-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-oxm-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-jdbc-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-jdbc-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-expression-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-beans-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-beans-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-tx-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-tx-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-r2dbc-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-r2dbc-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-jms-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-messaging-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-messaging-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-aspects-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-core-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-core-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-jcl-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-webflux-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-webflux-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-context-support-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-aop-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-instrument-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-context-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-context-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-orm-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-core-test-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-test-6.0.0-SNAPSHOT-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spring-test-6.0.0-SNAPSHOT-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
